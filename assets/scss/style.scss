@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#register {
+  padding: 10%;
+}
+#login {
+  padding: 10%;
+}
+
+#welcome {
+  display: none;
+  padding:0% 5% 5% 1%;
+  width: auto;
+  background-color: aqua;
+  p {
+    text-align: center;
+  }
+}

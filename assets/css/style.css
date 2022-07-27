@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#register {
+  padding: 10%;
+}
+
+#login {
+  padding: 10%;
+}
+
+#welcome {
+  display: none;
+  padding: 0% 5% 5% 1%;
+  width: auto;
+  background-color: aqua;
+}
+
+#welcome p {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
